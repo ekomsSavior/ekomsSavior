@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ekomsSavior
-- 👀 I’m interested in crypto bug bounties
+- 👀 I’m interested in cybersecurity, crypto and AI.
 - 🌱 I’m currently learning things every moment of every day. constant student.
-- 💞️ I’m looking to collaborate on nothing ever
+- 💞️ I’m looking to collaborate on creating great lasting projects.
 - 📫 How to reach me IG
-- 😄 Pronouns: i am no one
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i work on the other side of time
 
 <!---
