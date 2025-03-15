@@ -1,5 +1,11 @@
-🥰 Ekoms Savior 🥰 is a cybersecurity researcher passionate about crypto, wardriving, and solving complex security challenges. 
-
-💯💯💯 Always eager to learn, explore new technologies, conduct in-depth research, and develop innovative solutions. 
-
-💕 My current focus is on building crypto forensics tools to help cybersecurity professionals investigate blockchain threats.
+def print_banner():
+    print("__   __   ____  __   __   ____  __   __   ____  __   __   ____  __   __   ____  ")
+    print("\ \ / /  / __ \ \ \ / /  / __ \ \ \ / /  / __ \ \ \ / /  / __ \ \ \ / /  / __ \ ")
+    print(" \ \/ / | |  | | \ \/ / | |  | | \ \/ / | |  | | \ \/ / | |  | | \ \/ / | |  | |")
+    print("  >  <  | |  | |  >  <  | |  | |  >  <  | |  | |  >  <  | |  | |  >  <  | |  | |")
+    print("  /\  \ | |__| |  /\  \ | |__| |  /\  \ | |__| |  /\  \ | |__| |  /\  \ | |__| |")
+    print("/_/  \_\ \____/ /_/  \_\ \____/ /_/  \_\ \____/ /_/  \_\ \____/ /_/  \_\ \____/ ")
+    print("--------------------------------------------------------------------------------")
+    print("💖 HACK THE PLANET 💖")
+    print("--------------------------------------------------------------------------------")
+    print("Author: Ekoms Savior")
