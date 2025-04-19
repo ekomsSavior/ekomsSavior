@@ -7,7 +7,7 @@
 
 Hey fren!! I’m **ek0ms savi0r**, a passionate, playful, and protective girl deep in the world of cybersecurity, crypto, and code. I may not have a degree in computer science—but I *do* have one in **Painting and Printmaking**, and let me tell you, it shaped the way I *see the world*. I don’t just look at data—I *feel* it, I *read* it, I *breathe* it like a living canvas.
 
-I’m also a proud mama of a brilliant little girl who inspires me every day. My journey into cybersecurity came from love—love for her, and a fierce desire to **protect the digital spaces she'll grow up in**.
+I’m also a proud mama of a brilliant little one who inspires me every day. My journey into cybersecurity came from love—love for my little one, and a fierce desire to **protect the digital spaces they'll grow up in**.
 
 ---
 
