@@ -26,7 +26,7 @@ I’m also a proud mama of a brilliant little girl who inspires me every day. My
 
 | Project | Description |
 |--------|-------------|
-| [**Spam Jam**](https://github.com/ekomsSavior/Spam-Jam) | A BLE spamming & jamming tool with a built in mesh network capabilities xox 💘📡 |
+| [**Spam Jam**](https://github.com/ekomsSavior/Spam-Jam) | A BLE spamming & jamming tool with built in ble mesh network capabilities xox 💘📡 |
 | [**JamFi**](https://github.com/ekomsSavior/JamFi) | Wi-Fi deauth & Evil AP toolkit 💥 |
 | [**Info Glow**](https://github.com/ekomsSavior/Info-Glow) | The cutest OSINT CLI ever 🧚‍♀️🕵️ |
 | [**BotSchool**](https://github.com/ekomsSavior/BotSchool) | A red team education botnet simulator 🧠📚 designed for learning and love |
