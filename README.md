@@ -39,7 +39,7 @@ I’m also a proud mama of a brilliant little girl who inspires me every day. My
 
 Cybersecurity isn’t about fear—it’s about **love, care, curiosity, and protection**. I approach hacking the same way I approach motherhood and art: with passion, empathy, and a desire to understand what lies beneath the surface. 💗
 
-I believe that femininity is not a weakness in tech—it’s a *superpower*. Softness is strength. Playfulness is brilliance. And pink is just another color of power 💕
+I believe that femininity is not a weakness in tech—it’s a *superpower*. Softness is strength. Playfulness is brilliance 💕
 
 ---
 
@@ -54,6 +54,6 @@ If you vibe with this energy—whether you're a researcher, a dev, a student, a 
 
 ---
 
-💌 *Protect what you love. Build what you dream. And always leave sparkles in your wake.* ✨
+💌 *Protect what you love. Build what you dream.
 
 
