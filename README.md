@@ -47,8 +47,8 @@ I believe that femininity is not a weakness in tech—it’s a *superpower*. Sof
 
 If you vibe with this energy—whether you're a researcher, a dev, a student, a mom, or just someone curious—come say hi! I love collaborating, sharing, and growing together 🫂
 
-🐦 [Twitter](https://twitter.com/ekomsSavior)  
-📸 [Instagram](https://instagram.com/ekomsSavior)  
+🐦 [Twitter](https://twitter.com/anoncitylights)  
+📸 [Instagram](https://instagram.com/ekoms.is.my.savior)  
 📰 [Medium](https://medium.com/@ekoms1)  
 🌐 [Website (coming soon!)](#)
 
